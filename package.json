@@ -39,7 +39,7 @@
     }
   ],
   "bin": {
-    "bitcore-node": "./bin/bitcore-node"
+    "zcore-node": "./bin/zcore-node"
   },
   "scripts": {
     "test": "mocha -R spec --recursive",
